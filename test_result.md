@@ -149,15 +149,18 @@ backend:
 
   - task: "WebSocket real-time communication"
     implemented: true
-    working: true
+    working: false
     file: "/app/backend/server.py"
-    stuck_count: 0
+    stuck_count: 1
     priority: "high"
     needs_retesting: false
     status_history:
       - working: true
         agent: "main"
         comment: "Added WebSocket endpoints for both client connections and dashboard updates with encrypted communication and connection management."
+      - working: false
+        agent: "testing"
+        comment: "❌ TESTED: WebSocket endpoints implemented correctly in code but failing due to Kubernetes ingress configuration not supporting WebSocket upgrades. This is an infrastructure limitation - the WebSocket code is correct but cannot establish connections through the current ingress setup."
 
   - task: "AES encryption for secure communication"
     implemented: true
