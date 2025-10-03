@@ -20,7 +20,7 @@ You now have a **world-class Educational Cybersecurity Platform** that demonstra
 
 ### **Step 1: Access the Web Dashboard**
 ```
-URL: https://strengthen-project.preview.emergentagent.com
+URL: https://project-summary-5.preview.emergentagent.com
 ```
 
 1. **Educational Disclaimer**: First-time visitors see a comprehensive disclaimer

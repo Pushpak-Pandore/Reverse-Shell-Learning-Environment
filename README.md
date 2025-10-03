@@ -24,7 +24,7 @@ Complete architecture overview with diagrams
 Security features clearly explained
 Links to all documentation for easy navigation
 📖 Usage Instructions in README:
-Web Dashboard: https://strengthen-project.preview.emergentagent.com
+Web Dashboard: https://project-summary-5.preview.emergentagent.com
 Start Client: cd /app/backend && python3 client.py
 Run Demo: cd /app && python3 demo_client_usage.py
 🔐 Educational Safety Features Highlighted:

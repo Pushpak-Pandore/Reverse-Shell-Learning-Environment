@@ -16,7 +16,7 @@ import os
 import sys
 
 # Configuration
-BACKEND_URL = "https://strengthen-project.preview.emergentagent.com/api"
+BACKEND_URL = "https://project-summary-5.preview.emergentagent.com/api"
 WS_BASE_URL = "wss://strengthen-project.preview.emergentagent.com"
 
 class CyberSecPlatformTester:

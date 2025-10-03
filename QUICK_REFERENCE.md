@@ -4,7 +4,7 @@
 
 ### **Access Web Dashboard:**
 ```
-URL: https://strengthen-project.preview.emergentagent.com
+URL: https://project-summary-5.preview.emergentagent.com
 ```
 
 ### **Start Educational Client:**
@@ -83,7 +83,7 @@ ls -la          # List with permissions
 ### **Client Connection Issues:**
 ```bash
 # Check if backend is running
-curl https://strengthen-project.preview.emergentagent.com/api/
+curl https://project-summary-5.preview.emergentagent.com/api/
 
 # Try direct connection
 python3 client.py localhost
@@ -95,7 +95,7 @@ python3 client.py localhost
 
 ### **Dashboard Not Loading:**
 1. Clear browser cache
-2. Check URL: https://strengthen-project.preview.emergentagent.com
+2. Check URL: https://project-summary-5.preview.emergentagent.com
 3. Accept educational disclaimer if prompted
 4. Verify backend API connectivity
 
@@ -168,7 +168,7 @@ sudo supervisorctl restart frontend
 ### **If Something Goes Wrong:**
 
 #### **Client Won't Connect:**
-1. Check server status: `curl https://strengthen-project.preview.emergentagent.com/api/`
+1. Check server status: `curl https://project-summary-5.preview.emergentagent.com/api/`
 2. Try different connection method in client
 3. Verify no network restrictions
 4. Check client script permissions

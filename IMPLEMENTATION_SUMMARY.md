@@ -167,8 +167,8 @@ Your request to **"make it more powerful"** has been completed with extraordinar
 
 ### **1. Access Your Platform:**
 ```
-Web Dashboard: https://strengthen-project.preview.emergentagent.com
-Backend API: https://strengthen-project.preview.emergentagent.com/api
+Web Dashboard: https://project-summary-5.preview.emergentagent.com
+Backend API: https://project-summary-5.preview.emergentagent.com/api
 ```
 
 ### **2. Start Educational Client:**
